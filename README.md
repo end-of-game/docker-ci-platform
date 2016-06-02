@@ -17,7 +17,7 @@ Run GitLab / Jenkins 2 in docker for CI/CD process
 ## Finish setting
 
 Now you can access to your favorite tools on this url : 
-+ Jenkins : [192.168.50.4:9080](192.168.50.4:9080)
++ Jenkins : [http://192.168.50.4:9080](192.168.50.4:9080)
 + GitLab : [http://192.168.50.4:480](http://192.168.50.4:480)
 
 
