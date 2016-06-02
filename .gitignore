@@ -3,7 +3,7 @@
 
 ### Vagrant ###
 .vagrant/
-
+.bundle/
 
 ### Eclipse ###
 
