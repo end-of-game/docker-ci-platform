@@ -1,6 +1,13 @@
 
 # Created by https://www.gitignore.io/api/vagrant,eclipse,java,maven,vim
 
+
+### divers
+dtr.pem
+ucp-bundle-admin.zip
+ucp-bundle-admin/
+
+
 ### Vagrant ###
 .vagrant/
 .bundle/
